@@ -3,8 +3,8 @@
 Contributors: adorethemes
 Tags: custom-background, custom-header, custom-logo, custom-menu, featured-images, footer-widgets, left-sidebar, right-sidebar, blog, one-column, portfolio, photography, theme-options, threaded-comments, translation-ready
 Requires at least: 5.0
-Tested up to: 6.6
-Stable tag: 1.0.5
+Tested up to: 6.8
+Stable tag: 1.0.6
 Requires PHP: 7.4
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -64,6 +64,9 @@ Source: https://pxhere.com/en/photo/1630677
 
 
 == Changelog ==
+
+= 1.0.6 - May 30 2025 =
+* Tested up to WordPress 6.8
 
 = 1.0.5 - October 18 2024 =
 * Updated social icon
